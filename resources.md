@@ -7,6 +7,7 @@
 # Tests
 
 - [Kubernetes and Cloud Native Certified (KCNA) Practice Exams](https://www.udemy.com/course/dive-into-kubernetes-and-cloud-native-associate-kcna-practice-exams/) - 320 Domain-Mapped Questions, 5 Timed Mock Exams, Detailed Explanations, and Complete KCNA Blueprint Coverage by James Spurin (Docker Captain / CNCF Ambassador / Kubestronaut)
+- https://www.youtube.com/playlist?list=PLlhKrJNDhoUIc0GNkdSQbnjl4JU7SubE9 
 
 
 # References
